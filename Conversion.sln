@@ -1,25 +1,32 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.9.34622.214
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion", "Conversion\Conversion.csproj", "{E00D8F15-C838-4E4A-AB41-673FDB5B4784}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E00D8F15-C838-4E4A-AB41-673FDB5B4784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E00D8F15-C838-4E4A-AB41-673FDB5B4784}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E00D8F15-C838-4E4A-AB41-673FDB5B4784}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E00D8F15-C838-4E4A-AB41-673FDB5B4784}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9A0EB0AC-D382-4CAF-91EE-FD14725BF41B}
-	EndGlobalSection
-EndGlobal
+using System;
+
+namespace Conversion
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double n = 3.14;
+            int m = Convert.ToInt32(n);
+            Console.WriteLine(m);//display 3
+            Console.WriteLine(n.GetType());//datatyp of n 
+            Console.WriteLine(m.GetType());
+
+            int a = 3;
+            double b = Convert.ToDouble(a);
+            Console.WriteLine(b);
+
+            double c;
+            Console.Write("Enter a double number: "); 
+            c = Double.Parse(Console.ReadLine());
+
+            Console.WriteLine("The double number is " + c);
+
+            Console.Write("After convert into integr the number is: ");
+            int d = Convert.ToInt32(c);
+            Console.WriteLine(d);
+
+            Console.ReadKey();
+        }
+    }
+}
