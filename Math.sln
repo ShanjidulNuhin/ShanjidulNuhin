@@ -1,25 +1,50 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.9.34622.214
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{2C536FF1-51DE-45D4-982E-FB302CCD7D2D}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2C536FF1-51DE-45D4-982E-FB302CCD7D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C536FF1-51DE-45D4-982E-FB302CCD7D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C536FF1-51DE-45D4-982E-FB302CCD7D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C536FF1-51DE-45D4-982E-FB302CCD7D2D}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {08A1E5AF-3304-4FD2-8267-A14126BA5E61}
-	EndGlobalSection
-EndGlobal
+using System;
+
+namespace Mathe
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter a number:");
+            double a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine();
+
+            double b = Math.Pow(a, 2); // pow is the power of the number
+            Console.WriteLine("The power of " + a + " is: " + b);
+            Console.WriteLine();
+
+            double c = Math.Sqrt(a); // Sqprt is the square root number 
+            Console.WriteLine("The square root of " + a + " is: " + c);
+            Console.WriteLine();
+
+            double d = Math.Ceiling(a);//Ceiling is the ceiling number for example a number is 3.14 the ceiling is 4
+            Console.WriteLine("The ceiling number is: " + d);
+            Console.WriteLine();
+
+            double e = Math.Round(a);//Round is the round number for example a number is 3.14 the round number is 3
+            Console.WriteLine("The round number is: " + e);
+            Console.WriteLine();
+
+            double f = Math.Floor(a);//floor nummber is the floor number for example a number is 3.14 the floor number is 3  
+            Console.WriteLine("The floor number is: " + f);
+            Console.WriteLine();
+
+            Console.Write("Enter two numbers:");
+            double x = Convert.ToDouble(Console.ReadLine());
+            double y = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("You entered " + x + " and " + y);
+            Console.WriteLine();
+
+            double g = Math.Max(x, y);
+            Console.WriteLine("The maximum number between " + x + " and " + y + " is: " + g);
+            Console.WriteLine();
+
+            double h = Math.Min(x, y);
+            Console.WriteLine("The minimum number between " + x + " and " + y + " is: " + h);
+
+            Console.ReadKey();
+        }
+    }
+}
