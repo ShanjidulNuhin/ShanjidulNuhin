@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CYBERPUNK HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0ff0fc,100:ff2d78&height=200&section=header&text=NUHIN.EXE&fontSize=70&fontColor=0ff0fc&fontAlignY=55&animation=twinkling&stroke=ff2d78&strokeWidth=2&desc=INITIALIZING%20NEURAL%20INTERFACE...&descSize=16&descAlignY=78&descColor=ff2d78" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0ff0fc,100:ff2d78&height=200&section=header&text=SHANJIDUL ISLAM&fontSize=70&fontColor=0ff0fc&fontAlignY=55&animation=twinkling&stroke=ff2d78&strokeWidth=2&desc=INITIALIZING%20NEURAL%20INTERFACE...&descSize=16&descAlignY=78&descColor=ff2d78" />
 
 <!-- GLITCH NAME -->
 <h1>
@@ -129,8 +129,8 @@ projects = [
 
 | OBJECTIVE | PROGRESS | ETA |
 |:---|:---:|:---:|
-| `[ML]` PCOS Detection Model → Production | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=0ff0fc&suffix=%) | Q3 2026 |
-| `[WEB]` Full Stack SaaS Projects | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=120&color=ff2d78&suffix=%) | Ongoing |
+| `[WEB]` .Net mvc core project  | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=120&color=0ff0fc&suffix=%) | Q3 2026 |
+| `[WEB]` Full Stack Web Projects | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=120&color=ff2d78&suffix=%) | Ongoing |
 | `[CLOUD]` Azure Deployment & DevOps | ![30%](https://progress-bar.xyz/30/?scale=100&title=&width=120&color=a855f7&suffix=%) | Q4 2026 |
 | `[SYS]` Advanced System Design | ![40%](https://progress-bar.xyz/40/?scale=100&title=&width=120&color=facc15&suffix=%) | Q4 2026 |
 
