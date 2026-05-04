@@ -141,11 +141,6 @@ projects = [
 <div align="center">
 
 ## 📊 `GITHUB_STATS.DECRYPT`
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShanjidulNuhin&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&icon_color=ff2d78&text_color=ffffff&border_radius=10" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanjidulNuhin&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&text_color=ffffff&border_radius=10" height="165" />
-
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanjidulNuhin&theme=radical&hide_border=true&background=0d0d0d&ring=0ff0fc&fire=ff2d78&currStreakLabel=0ff0fc&border_radius=10" />
