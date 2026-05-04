@@ -5,7 +5,7 @@
 
 <!-- GLITCH NAME -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=0FF0FC&center=true&vCenter=true&width=600&lines=%3E_+MD.+SHANJIDUL+ISLAM+NUHIN;%3E_+CS+STUDENT+%2F%2F+BUILDER;%3E_+WEB+DEV+%2B+ML+ENGINEER;%3E_+OPEN+TO+INTERNSHIP+%5BACTIVE%5D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=0FF0FC&center=true&vCenter=true&width=600&lines=%3E_+MD.+SHANJIDUL+ISLAM;%3E_+CS+STUDENT+%2F%2F+BUILDER;%3E_+WEB+DEV+%2B+ML+ENGINEER;%3E_+OPEN+TO+INTERNSHIP+%5BACTIVE%5D" />
 </h1>
 
 <!-- STATUS BADGES -->
@@ -14,7 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C_BD-%23FF2D78?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d0d0d" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-ML_%2B_FULLSTACK-%23a855f7?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/FOCUS_ON_FULLSTACK_WEB_DEVELOPING-%23a855f7?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d0d0d" />
 </p>
 
 <!-- DIVIDER -->
