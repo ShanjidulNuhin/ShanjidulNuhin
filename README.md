@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CYBERPUNK HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0ff0fc,100:ff2d78&height=200&section=header&text=SHANJIDUL ISLAM&fontSize=70&fontColor=0ff0fc&fontAlignY=55&animation=twinkling&stroke=ff2d78&strokeWidth=2&desc=INITIALIZING%20NEURAL%20INTERFACE...&descSize=16&descAlignY=78&descColor=ff2d78" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0ff0fc,100:ff2d78&height=200&section=header&text=SHANJIDUL&fontSize=70&fontColor=0ff0fc&fontAlignY=55&animation=twinkling&stroke=ff2d78&strokeWidth=2&desc=INITIALIZING%20NEURAL%20INTERFACE...&descSize=16&descAlignY=78&descColor=ff2d78" />
 
 <!-- GLITCH NAME -->
 <h1>
